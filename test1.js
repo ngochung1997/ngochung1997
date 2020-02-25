@@ -1,6 +1,5 @@
 function addition(a,b){
-    a + b;
-    return addition;
+    return a + b;
 };
 addition(3,2);
 addition(-3,-6);
