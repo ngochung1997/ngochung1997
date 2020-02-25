@@ -1,6 +1,5 @@
 function convert(x){
-     x * 60;
-     return convert;
+     return x * 60;
 };
 convert(5);
 convert(3);
