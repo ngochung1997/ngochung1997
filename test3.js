@@ -1,5 +1,5 @@
 function addition(x){
-    x++;
+    return x++;
 };
 console.log(addition(0));
 console.log(addition(9));
